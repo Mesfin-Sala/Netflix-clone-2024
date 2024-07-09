@@ -37,7 +37,7 @@ img {
 .header_right ul {
   
     display: flex;
-    width:100%;
+    width:110%;
     justify-content: right;
     justify-content:space-between;
     list-style: none;

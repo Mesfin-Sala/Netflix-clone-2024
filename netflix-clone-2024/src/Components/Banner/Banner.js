@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from '../../Utils/axios';
-import requests from '../../Utils/request';
-import  "./Banner.css"
+import requests from "../../Utils/request"
+import "./Banner.css"
 const Banner = () => {
     const [movie, setMovie] = useState({});
 
@@ -39,17 +39,17 @@ const Banner = () => {
               movie?.original_name ||
               movie?.poster_path}
           </h1>
-          <div className="banner__buttons">
-            <button className="banner__button play">Play</button>
-            <button className="banner__button">My List</button>
+          <div className="banner_buttons">
+            <button className="banner_button play">Play</button>
+            <button className="banner_button">My List</button>
           </div>
           {
-            <h1 className="banner__description">
+            <h1 className="banner_description">
               {truncate(movie?.overview, 150)}
             </h1>
           }
         </div>
-        <div className="banner__fadeBottom" />
+        <div className="banner_fadeBottom" />
       </div>
     );
 }
