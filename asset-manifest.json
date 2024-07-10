@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Sala-Tsega.github.io/netflix-clone-2024%20/static/css/main.79b724ae.css",
-    "main.js": "/Sala-Tsega.github.io/netflix-clone-2024%20/static/js/main.18b2e8fb.js",
+    "main.js": "/Sala-Tsega.github.io/netflix-clone-2024%20/static/js/main.baf4a09b.js",
     "index.html": "/Sala-Tsega.github.io/netflix-clone-2024%20/index.html",
     "main.79b724ae.css.map": "/Sala-Tsega.github.io/netflix-clone-2024%20/static/css/main.79b724ae.css.map",
-    "main.18b2e8fb.js.map": "/Sala-Tsega.github.io/netflix-clone-2024%20/static/js/main.18b2e8fb.js.map"
+    "main.baf4a09b.js.map": "/Sala-Tsega.github.io/netflix-clone-2024%20/static/js/main.baf4a09b.js.map"
   },
   "entrypoints": [
     "static/css/main.79b724ae.css",
-    "static/js/main.18b2e8fb.js"
+    "static/js/main.baf4a09b.js"
   ]
 }
