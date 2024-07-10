@@ -44,3 +44,11 @@ img {
     align-items: center
 
 }
+
+@media (max-width:768px) {
+  .header_left ul li{
+    display: none;
+  }
+
+  
+}
